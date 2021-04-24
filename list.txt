@@ -1,0 +1,2 @@
+file './fancy.mp4'
+file './out.mp4'
